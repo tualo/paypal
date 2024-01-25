@@ -1,1 +1,1 @@
-# Braintree
+# Paypal
